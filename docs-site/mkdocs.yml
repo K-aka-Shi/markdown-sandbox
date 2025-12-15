@@ -1,0 +1,14 @@
+site_name: Markdown Playground
+site_description: Test de documentation avec MkDocs
+site_author: Nidal
+theme:
+  name: material
+
+nav:
+  - Accueil: index.md
+  - Changelog: CHANGELOG.md
+  - TODO: TODO.md
+  - Contribuer: CONTRIBUTING.md
+  - Docs:
+      - Architecture: architecture.md
+      - API: api.md
