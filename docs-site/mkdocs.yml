@@ -12,3 +12,10 @@ nav:
   - Docs:
       - Architecture: architecture.md
       - API: api.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - codehilite
